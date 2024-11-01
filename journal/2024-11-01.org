@@ -4,3 +4,5 @@
 #+title: 2024-11-01
 
 This is the first =org-roam= journal entry!
+
+* [[id:6ae49e3c-b5ad-4a50-a678-83b497c1cd97][Powerworks meeting]]

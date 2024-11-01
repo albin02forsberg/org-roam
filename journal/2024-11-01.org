@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7925e9c4-2896-4e7c-adfa-555d22adcd43
+:END:
+#+title: 2024-11-01
+
+This is the first =org-roam= journal entry!
